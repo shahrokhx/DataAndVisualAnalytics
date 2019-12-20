@@ -1,0 +1,42 @@
+.bar {
+    fill: #2b8cbe;
+    fill-opacity: .9;
+}
+
+.line{
+    stroke: blue;
+}
+
+.bar:hover {
+    fill: green;
+}
+
+.tooltip {
+    font-weight: bold;
+    padding: 40px;
+    border-radius: 2px;
+}
+
+text.ylabel{
+    font-weight: bold;
+    font-size: 18px;
+}
+text.xlabel{
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Courier;
+}
+
+.axis path;
+
+.axis text {
+    font-family: sans-serif;
+    font-size: 14px; }
+
+path { 
+    stroke: black;
+    stroke-width: 2;
+    fill: none;
+}
+
+

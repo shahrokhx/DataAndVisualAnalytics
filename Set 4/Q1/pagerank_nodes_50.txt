@@ -1,0 +1,67 @@
+Completed 1/50 iterations. 4.09371495247 seconds elapsed.
+Completed 2/50 iterations. 8.08570599556 seconds elapsed.
+Completed 3/50 iterations. 12.0579628944 seconds elapsed.
+Completed 4/50 iterations. 15.943117857 seconds elapsed.
+Completed 5/50 iterations. 19.8280620575 seconds elapsed.
+Completed 6/50 iterations. 23.7115130424 seconds elapsed.
+Completed 7/50 iterations. 27.572398901 seconds elapsed.
+Completed 8/50 iterations. 31.5070059299 seconds elapsed.
+Completed 9/50 iterations. 35.4077169895 seconds elapsed.
+Completed 10/50 iterations. 39.2785489559 seconds elapsed.
+Completed 11/50 iterations. 43.149971962 seconds elapsed.
+Completed 12/50 iterations. 47.0336048603 seconds elapsed.
+Completed 13/50 iterations. 50.9151978493 seconds elapsed.
+Completed 14/50 iterations. 54.7974848747 seconds elapsed.
+Completed 15/50 iterations. 58.7336168289 seconds elapsed.
+Completed 16/50 iterations. 62.6512999535 seconds elapsed.
+Completed 17/50 iterations. 66.5410900116 seconds elapsed.
+Completed 18/50 iterations. 70.4085938931 seconds elapsed.
+Completed 19/50 iterations. 74.2536268234 seconds elapsed.
+Completed 20/50 iterations. 78.1064920425 seconds elapsed.
+Completed 21/50 iterations. 81.9829268456 seconds elapsed.
+Completed 22/50 iterations. 85.8324379921 seconds elapsed.
+Completed 23/50 iterations. 89.7078678608 seconds elapsed.
+Completed 24/50 iterations. 93.5823378563 seconds elapsed.
+Completed 25/50 iterations. 97.5005838871 seconds elapsed.
+Completed 26/50 iterations. 101.457906008 seconds elapsed.
+Completed 27/50 iterations. 105.346678972 seconds elapsed.
+Completed 28/50 iterations. 109.350250959 seconds elapsed.
+Completed 29/50 iterations. 113.253888845 seconds elapsed.
+Completed 30/50 iterations. 117.20823288 seconds elapsed.
+Completed 31/50 iterations. 121.15230298 seconds elapsed.
+Completed 32/50 iterations. 125.036659002 seconds elapsed.
+Completed 33/50 iterations. 128.925355911 seconds elapsed.
+Completed 34/50 iterations. 132.809877872 seconds elapsed.
+Completed 35/50 iterations. 136.717476845 seconds elapsed.
+Completed 36/50 iterations. 140.601115942 seconds elapsed.
+Completed 37/50 iterations. 144.489413023 seconds elapsed.
+Completed 38/50 iterations. 148.379313946 seconds elapsed.
+Completed 39/50 iterations. 152.272171021 seconds elapsed.
+Completed 40/50 iterations. 156.165180922 seconds elapsed.
+Completed 41/50 iterations. 160.092416048 seconds elapsed.
+Completed 42/50 iterations. 164.015627861 seconds elapsed.
+Completed 43/50 iterations. 167.918419838 seconds elapsed.
+Completed 44/50 iterations. 171.839850903 seconds elapsed.
+Completed 45/50 iterations. 175.72239995 seconds elapsed.
+Completed 46/50 iterations. 179.74822998 seconds elapsed.
+Completed 47/50 iterations. 183.630147934 seconds elapsed.
+Completed 48/50 iterations. 187.535269976 seconds elapsed.
+Completed 49/50 iterations. 191.410262823 seconds elapsed.
+Completed 50/50 iterations. 195.276469946 seconds elapsed.
+
+node_id	score
+8737	0.000137749016026
+2914	0.000121460331077
+18964	8.49253485639e-05
+1220	7.34626487859e-05
+2409	6.93818358598e-05
+10029	6.75447595051e-05
+214538	6.25792575466e-05
+7343	5.91837992545e-05
+39295	5.5715803672e-05
+38283	5.55118996244e-05
+18963	5.54441663346e-05
+40509	4.93428807175e-05
+1918	4.86863935039e-05
+4494	4.85255438537e-05
+3407	4.6868128609e-05

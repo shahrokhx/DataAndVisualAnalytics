@@ -1,0 +1,15 @@
+18: loading data file from input file (the first argument)
+
+22: creating the data frame “table” by splitting the data file by Tab (“\t”)  and map the data to the defied Row class (line 11)
+
+25, 26: creating  2 separate data frame (in and out) for outgoing and incoming edges.
+
+31, 32: groupBy nodes and counting (it is not part of a solution, just for test)
+
+35, 36: finding the average weights for each data frame out and in. the incomings are multiplied by (-1) to give the required value at the end.
+
+39: joining two data frames and merging them to a new data frame called “all”
+
+42: summation of required column (column 2 and 3) of data frame and obtaining the required gross average node weight.
+
+45 and 52: writing the output with the required format (“\t”) in the output file (arg[1])

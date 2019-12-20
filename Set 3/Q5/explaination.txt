@@ -1,0 +1,8 @@
+(2)
+
+The results get worse (errors increased and R2 decreased) which indicates the important role of dealing with missing data (cleaning or replacing with mean, etc) 
+
+
+(3)
+
+Two other regression models are tried: "Decision Forest" and "Neural Network". By these changes, different training models are obtained leading to different results and evaluation metrics, consequently. The results demonstrate: Decision Forest model provides better prediction (less errors and R2 closer to 1), while  NN provides the worst prediction among others.

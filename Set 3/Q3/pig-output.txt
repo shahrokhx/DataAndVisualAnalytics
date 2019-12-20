@@ -1,0 +1,13 @@
+bigrams = LOAD 's3://cse6242-2018spring-aws-big/*' AS (bigram:chararray, year:int, occurrences:int, books:int);
+
+R1 = FILTER bigrams BY (occurrences >= 400) AND (books >= 8);
+
+R2 = GROUP R1 BY bigram;
+
+R3 = FOREACH R2 GENERATE group AS comb, ROUND_TO((float)SUM(R1.occurrences)/SUM(R1.books),2) AS avg;
+
+R4 = ORDER R3 BY avg DESC, comb ASC;
+
+R5 = LIMIT R4 15;
+
+STORE R5 INTO 's3://cse6242-sshahi3/big_test' USING PigStorage ('\t');

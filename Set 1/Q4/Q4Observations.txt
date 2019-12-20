@@ -1,0 +1,29 @@
+
+
+(c.i.a)
+The number of rows that return True = 47 
+
+
+(c.i.b)
+The number of created columns = 5 more columns are created
+category_name 1   to   category_name 5
+
+
+(c.ii)
+THE MAX NUMBER OF FOUND CLUSTERS = 566
+Under metaphone33
+
+(fingerprint=122/ngram-fingerprint=120/
+metaphone3=566/cologne-phonetic=183)
+
+
+(c.iii)
+if(isNull(value),"Unbranded",value)
+
+(c.iv)
+if(toNumber(value)>100,1,0)
+
+(c.v)
+if(or(contains(value,"discount"),
+contains(value,"offer"),
+contains(value,"sale")),1,0)

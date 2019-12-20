@@ -1,0 +1,8 @@
+My Design Choice:
+
+-	Using the Expansion layout to be more representative and the clusters can be more recognizable
+-	Adjusting “Edge Weight Scale” to improve the noisy and messy appearance. 
+-	Making the label of high degree nodes more readable due to their importance (They are popular/sociable in this network) + employing color ranking to recognize them
+-	Using Size Ranking for node degrees to find the popular users and then arrange them in perimeter
+-	Keeping the Root User (POLO) at center and in differnt color
+-	Adjusting the size of nodes in the appearance tab to be consistence with the network size.

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+<head>
+	 <meta charset="utf-8">
+	 <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	 <meta name="viewport" content="width=device-width, initial-scale=1">
+	 <meta name="description" content="">
+	 <meta name="author" content="Shahrokh Shahi">
+
+	 <title>Signing Up! </title>
+
+	 <link href="static/css/bootstrap.min.css" rel="stylesheet">
+	 <link href="static/css/signup.css" rel="stylesheet">
+
+	 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script> 
+ 	 <script src="static/js/signUp.js"></script>	
+</head>
+ 
+<body>
+    <div class="container">
+        <form class="form-signin"  role="form">
+        <h2 class="form-signin-heading">Sign Up for campus CSE6242</h2>
+        <input type="email" id="inputUsername" name="username" class="form-control" placeholder="Email address" required autofocus>
+        <input type="password" id="inputPassword" name="password" class="form-control" placeholder="Password" required>       
+        <button class="btn btn-lg btn-primary btn-block" type="button" onclick="myfunc()">Register</button>
+    	<!-- <div class="col-xs-12" style="height:50px;"></div> -->
+        
+		</form>
+
+		<p align="center" id="showMsg"> </p>
+
+     </div>
+     
+     <p align="center" id="status"> </p>
+     <script>
+		function myfunc() {
+			var user = document.getElementById('inputUsername').value;
+			var pass = document.getElementById('inputPassword').value;
+
+		    if ((user!='') && (pass!='')){
+		    	var user = document.getElementById('inputUsername').value;
+			    var msg = "Congratulations on registering for CSE6242, "+user+"! Redirecting you to the course homepage...";
+			    document.getElementById("showMsg").innerHTML = msg;
+
+				document.getElementById('inputUsername').value = '';
+				document.getElementById('inputPassword').value = '';
+
+			    setTimeout(myFunction, 3000);
+			    /*
+			    setTimeout(function() {
+  					document.location.assign("​http://poloclub.gatech.edu/cse6242/2018spring/​");
+				}, 3000);
+				*/
+		    }
+			else{
+				document.getElementById("showMsg").innerHTML = "Please, enter both email and password!";
+			}    
+		}
+		
+		function myFunction(){
+			console.log("Redirect...")
+			document.getElementById("status").innerHTML = "Redirecting...";
+			document.location.assign("​http://poloclub.gatech.edu/cse6242/2018spring/");
+		}
+		
+
+</script>
+</body>
+ 
+</html>

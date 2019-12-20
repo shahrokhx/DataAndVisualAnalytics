@@ -1,0 +1,23 @@
+#title {
+    padding:10px;
+    position: relative;
+    left: 380px;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.d3tooltip {
+    line-height: 2;
+    font-size: 12px;
+    padding: 4px;
+    background:rgba(0,0,0,0.5);
+    color: #fff;
+    border-radius: 8px;
+    font-family: Courier;
+    /*opacity: 0.6;*/
+    /*filter: alpha(opacity=60);*/
+}
+
+.legend {
+    font-size: 10px;
+}

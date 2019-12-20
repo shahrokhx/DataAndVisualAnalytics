@@ -1,0 +1,13 @@
+
+.newpage { page-break-before: always; }
+
+.axis path,
+.axis line {
+        fill: none;
+        stroke: black;
+        shape-rendering: auto; }
+
+.axis text {
+        font-family: sans-serif;
+        font-size: 15px; }
+

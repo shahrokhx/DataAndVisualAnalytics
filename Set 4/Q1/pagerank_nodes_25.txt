@@ -1,0 +1,42 @@
+Completed 1/25 iterations. 4.07619094849 seconds elapsed.
+Completed 2/25 iterations. 8.0559220314 seconds elapsed.
+Completed 3/25 iterations. 12.0131030083 seconds elapsed.
+Completed 4/25 iterations. 15.8492109776 seconds elapsed.
+Completed 5/25 iterations. 19.783905983 seconds elapsed.
+Completed 6/25 iterations. 23.9232649803 seconds elapsed.
+Completed 7/25 iterations. 27.9740581512 seconds elapsed.
+Completed 8/25 iterations. 31.9546279907 seconds elapsed.
+Completed 9/25 iterations. 35.8317170143 seconds elapsed.
+Completed 10/25 iterations. 39.6758549213 seconds elapsed.
+Completed 11/25 iterations. 43.6052789688 seconds elapsed.
+Completed 12/25 iterations. 47.510612011 seconds elapsed.
+Completed 13/25 iterations. 51.3729019165 seconds elapsed.
+Completed 14/25 iterations. 55.2395920753 seconds elapsed.
+Completed 15/25 iterations. 59.1016941071 seconds elapsed.
+Completed 16/25 iterations. 62.9751420021 seconds elapsed.
+Completed 17/25 iterations. 66.9408400059 seconds elapsed.
+Completed 18/25 iterations. 70.8152220249 seconds elapsed.
+Completed 19/25 iterations. 74.6457130909 seconds elapsed.
+Completed 20/25 iterations. 78.5146090984 seconds elapsed.
+Completed 21/25 iterations. 82.3961160183 seconds elapsed.
+Completed 22/25 iterations. 86.2611060143 seconds elapsed.
+Completed 23/25 iterations. 90.1358189583 seconds elapsed.
+Completed 24/25 iterations. 93.9985201359 seconds elapsed.
+Completed 25/25 iterations. 97.8672480583 seconds elapsed.
+
+node_id	score
+8737	0.000137965534916
+2914	0.000121630660293
+18964	8.49696253682e-05
+1220	7.35851894542e-05
+2409	6.94965603659e-05
+10029	6.76089229499e-05
+214538	6.27047386711e-05
+7343	5.92804657438e-05
+39295	5.57434136282e-05
+38283	5.56253279857e-05
+18963	5.55142449487e-05
+40509	4.94049261102e-05
+1918	4.87426085298e-05
+4494	4.86049273624e-05
+3407	4.69201196047e-05

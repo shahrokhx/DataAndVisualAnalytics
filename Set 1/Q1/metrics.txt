@@ -1,0 +1,12 @@
+
+1-	Average Node Degree = 1.039
+In general, the degree of a graph vertex of a graph is the number of graph edges that are adjacent the node. In this graph each (directed) edge represents a “following” relationship between the follower and the friend. The average node degree, 1.039, indicates that most of nodes (twitter users in this network) are related (followed/follower) to almost one other person which means the graph is not complete and the adjacent matrix will probably be sparse.
+
+2-	Diameter of the Graph = 6
+This indicates the greatest distance between any pair of vertices, which in this network means the longest path between two related people (the maximum length of shortest path in the graph between them) is 6.
+
+3-	Average Path Length = 4.016
+It represents the average number of steps along the shortest paths between all possible pairs of users. So, usually, there are 4 steps (3 other nodes/users) between each 2 random users.
+
+4-	Graph Density = 0.002
+The maximum density in a graph/network is 1 for a complete graph. Considering the low Average Node Degree, we could expect a very low value for Graph Density, as it is a sparse graph/network, which means in this network a user is not related to the majority of other users.
