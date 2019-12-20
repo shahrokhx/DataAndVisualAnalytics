@@ -2,7 +2,6 @@
 ### This repository includes all codes and projects I developed duting [CSE-6242](http://poloclub.gatech.edu/cse6242/2018spring/) which mainly includes the following:
 
 ----------
-----
 
 1. Set 1:
 	1. Analyzing Twitter dataset
